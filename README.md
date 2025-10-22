@@ -48,7 +48,7 @@ I'm a french student currently in my last year for my computer science engineeri
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,ansible"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,ansiblemqwure"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
