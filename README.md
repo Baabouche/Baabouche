@@ -17,17 +17,17 @@ I'm a french student currently in my last year for my computer science engineeri
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Babouche007&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baabouche&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/Babouche007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Babouche007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Babouche007"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Babouche007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Babouche007"/>
+  <a href="https://github.com/Baabouche">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Baabouche&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Baabouche"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baabouche&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Baabouche"/>
   </a>
 </div>
 <p align="center">
-  <a href="https://github.com/Babouche007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Babouche007&&theme=tokyonight" alt="Babouche007" />
+  <a href="https://github.com/Baabouche">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baabouche&&theme=tokyonight" alt="Baabouche" />
   </a>
 </p>
 
@@ -69,5 +69,5 @@ I'm a french student currently in my last year for my computer science engineeri
 </table>
 
 ------
-[Babouche007](https://github.com/Babouche007)
+[Babouche007](https://github.com/Baabouche)
 30/07/2025
