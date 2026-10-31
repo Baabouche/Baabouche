@@ -17,11 +17,6 @@ I'm a french student currently in my last year for my computer science engineeri
 ------
 <h3 align="left">Activity:</h3>
 
-<div align="center">
-  <a href="https://github.com/Baabouche">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baabouche&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Baabouche"/>
-  </a>
-</div>
 <p align="center">
   <a href="https://github.com/Baabouche">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baabouche&&theme=tokyonight" alt="Baabouche" />
